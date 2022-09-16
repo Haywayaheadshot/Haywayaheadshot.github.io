@@ -190,7 +190,7 @@ const proj = [
 
 // Declare variable for class of buttons to be clicked
 
-const showCards = document.querySelectorAll(`.show-card`);
+const showCards = document.querySelector(`.show-card`);
 
 // Write a function that creates html containing what to be shown and append it
 // Pass an argument through it and call the object keys written above at required points
