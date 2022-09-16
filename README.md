@@ -5,8 +5,14 @@
 
 ## Built With
 
-- HTML and CSS
+- HTML 
+- CSS
+- Javascript
 - Figma
+
+## Live Demo
+
+https://haywayaheadshot.github.io/
 
 
 ## Getting Started
@@ -28,9 +34,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Haywayaheadshot)
-- Twitter: [@twitterhandle](https://twitter.com/haywayalive)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/abubakar-ummar-4b6643245)
+- GitHub: [@Haywayaheadshot](https://github.com/Haywayaheadshot)
+- Twitter: [@haywayalive](https://twitter.com/haywayalive)
+- LinkedIn: [Abubakar Ummar](https://linkedin.com/in/abubakar-ummar-4b6643245)
 
 
 ## 🤝 Contributing
@@ -44,6 +50,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowlegement
+- Thanks to my coding partners
+- Thanks to my collaborators
 - Thanks to figma for the template
 - Thanks to Microverse for their curriculum
 - Thanks to morning session team
