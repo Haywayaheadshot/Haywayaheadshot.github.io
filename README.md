@@ -1,6 +1,9 @@
-# Mobile page set up for my portoflio
+# A musical event website to give fans easy access to concerts
 
-> This project is about setting up a mobile phone app for my portfolio. It is a part of the microverse curriculum on how to build a mobile application.
+> This project is about setting up a website with two webpages. Homepage and About page.
+> These pages include both mobile and desktop versions.
+> The "Featured Artist section" of the homepage of this website was dynamically made with javascript.
+> The "Last two concerts section" in the about page has a really cool feature when you hover or leave your cursor on the images. It gives a concert vibe. 
 
 
 ## Built With
@@ -8,12 +11,16 @@
 - HTML 
 - CSS
 - Javascript
-- Figma
+- Sass
 
 ## Live Demo
 
 https://haywayaheadshot.github.io/
 
+
+## Video talking about the website
+
+https://www.loom.com/share/ad4fc43d1852448580ae3fd114013ad4
 
 ## Getting Started
 
@@ -27,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Setup
-- To clone the repository run this command git clone https://github.com/Haywayaheadshot/my-portoflio.git
+- To clone the repository run this command git clone https://github.com/Haywayaheadshot/songkick-CCGlobal-web-design.git
 
 
 ## Authors
@@ -50,12 +57,13 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowlegement
-- Thanks to my coding partners
-- Thanks to my collaborators
-- Thanks to figma for the template
+- Thanks to [Cindy Shin](https://www.behance.net/adagio07) for the template
+- Thanks to [flaticon](https://www.flaticon.com/) for the icons
+- Thanks to [songkick](https://www.songkick.com/) for details on webpage
+- Thanks to my coding partners for their support
 - Thanks to Microverse for their curriculum
-- Thanks to morning session team
-- Thanks to stand up team
+- Thanks to morning session team for their support
+- Thanks to stand up team for their support
 - Thanks to code reviewers
 
 ## 📝 License
